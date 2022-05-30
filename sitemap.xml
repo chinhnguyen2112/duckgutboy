@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://duckgutboy.com/assets/css/sanacc/css_sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://duckgutboy.com/page.xml</loc>
+    <lastmod>2022-03-28T17:28:31+07:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://duckgutboy.com/account.xml&#13;
+</loc>
+    <lastmod>2022-03-28T17:28:31+07:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://duckgutboy.com/account1.xml</loc>
+    <lastmod>2022-05-17T17:28:31+07:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://duckgutboy.com/account2.xml</loc>
+    <lastmod>2022-05-17T17:28:31+07:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://duckgutboy.com/account3.xml</loc>
+    <lastmod>2022-05-17T17:28:31+07:00</lastmod>
+  </sitemap>
+</sitemapindex>
